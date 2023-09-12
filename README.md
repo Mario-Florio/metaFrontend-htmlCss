@@ -1,12 +1,12 @@
 # metaFrontend-htmlCss
-This repository displays is the final portfolio project for the "HTML and CSS in depth" section of the Meta Front-end Developer certification course. 
+This repository displays the final portfolio project for the "HTML and CSS in depth" section of the *Meta Front-end Developer* certification course. 
 
-The directive of the project was to build a home page for a mock restaurant. This included providing:
+The directive of the project is to build a home page for a mock restaurant. This included providing:
 
 * the company logo at the top of the page,
 * an inline navigation menu,
-* a larger promotional banner,
-* three columns of additional content (image & text)
+* a large promotional banner,
+* three columns of additional content (including an image & text)
 * and a footer which included the company logo and a copyright statment
 
 The project aimed to assess ones abiltiy in the following:
